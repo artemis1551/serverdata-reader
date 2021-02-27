@@ -15,3 +15,4 @@ Taken in PyDroid.
 
 ### Information
 This script was purely made by me, This script is open source, and protected under MIT License, if you see someone selling the script, Kindly DM me on Discord : artemis#1551.
+<b>Credit : GalvinID (Inspired) </b>
